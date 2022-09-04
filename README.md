@@ -1,8 +1,5 @@
 # SIGGRAPH-Machine-Learning-Course
 
-
-Name: Rahmani Dibansa
-
 Description: This contains my understanding and outputs for the SIGGRAPH Machine Learning Course that
              spans 9 lectures. The Course delved into the introduction as well as implementation of 
              different kinds of machine learning models. This includes data gathering, preparation of data,
